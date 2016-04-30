@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./nuntiaturberich02deugoog_0698.png"; bbox 0 0 3500 5300; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 188 2086 2972 2255">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 188 2086 2972 2255">
+     <span class='ocr_line' id='line_1_1' title="bbox 188 2086 2972 2255; baseline 0.001 -34"><span class='ocrx_word' id='word_1_1' title='bbox 188 2086 429 2222; x_wconf 71' lang='lat' dir='ltr'>Die</span> <span class='ocrx_word' id='word_1_2' title='bbox 524 2086 1262 2223; x_wconf 75' lang='lat' dir='ltr'>Nuntiatur</span> <span class='ocrx_word' id='word_1_3' title='bbox 1353 2088 1578 2223; x_wconf 70' lang='lat' dir='ltr'>des</span> <span class='ocrx_word' id='word_1_4' title='bbox 1675 2086 2331 2223; x_wconf 74' lang='lat' dir='ltr'>Giovanni</span> <span class='ocrx_word' id='word_1_5' title='bbox 2406 2088 2972 2255; x_wconf 65' lang='grc' dir='ltr'>ΜΟΓΟΠΘ,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 947 2446 2220 2563">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 947 2446 2220 2563">
+     <span class='ocr_line' id='line_1_2' title="bbox 947 2446 2220 2563; baseline 0.001 -4"><span class='ocrx_word' id='word_1_6' title='bbox 947 2446 1409 2561; x_wconf 74' lang='lat' dir='ltr'>Bisohofs</span> <span class='ocrx_word' id='word_1_7' title='bbox 1484 2485 1692 2563; x_wconf 82' lang='lat' dir='ltr'>von</span> <span class='ocrx_word' id='word_1_8' title='bbox 1764 2449 2220 2561; x_wconf 75' lang='lat' dir='ltr'><strong>Modena.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1272 2804 1903 2886">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1272 2804 1903 2886">
+     <span class='ocr_line' id='line_1_3' title="bbox 1272 2804 1903 2886; baseline 0.002 -2"><span class='ocrx_word' id='word_1_9' title='bbox 1272 2804 1903 2886; x_wconf 79' lang='lat'>1536-1538.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
